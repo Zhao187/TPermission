@@ -1,2 +1,3 @@
 rootProject.name='TPermission'
 include ':app'
+include ':library'
