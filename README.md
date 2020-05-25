@@ -42,8 +42,7 @@ dependencies {
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](<%= issuesUrl %>). <%= contributingUrl ? `You can also take a look at the [contributing guide](${contributingUrl}).` : '' %>
-<% } -%>
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]
 
 ## Show your support
 
