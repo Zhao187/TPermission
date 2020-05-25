@@ -14,7 +14,7 @@ Step 1. Add the JitPack repository to your build file
 	}
 Step 2. Add the dependency
 dependencies {
-	implementation 'com.github.Zhao187:TPermission:Tag'
+	implementation 'com.github.Zhao187:TPermission:1.0.0'
 }
 ```
 ## Usage
